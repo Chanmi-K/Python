@@ -9,3 +9,8 @@
 * EDA
 	* pie chart / bar chart
 
+### [Covid_data_visualization](https://github.com/Chanmi-K/Python/blob/main/DA/DA_Covid_data_visualization.ipynb)
+* Series.plot
+* sns.countplot
+* sns.barplot
+* plt.pie
