@@ -5,6 +5,7 @@
 
 ### 데이터 분석 연습
 * 1 [Drinks](https://github.com/Chanmi-K/Python/blob/main/DA/DA_Drinks.ipynb)
+* 2 [Covid_data_visualization](https://github.com/Chanmi-K/Python/blob/main/DA/DA_Covid_data_visualization.ipynb)
 
 
 ## Machine Learning
