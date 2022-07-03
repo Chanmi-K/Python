@@ -24,3 +24,11 @@
 * 1 [DNN_Fashion_MNIST](https://github.com/Chanmi-K/Python/blob/main/DL/DL_DNN_FashionMnist.ipynb)
 * 2 [CNN_Fashion_MNIST](https://github.com/Chanmi-K/Python/blob/main/DL/DL_CNN_FashionMnist.ipynb)
 * 3 [RNN_IMDB_reviews](https://github.com/Chanmi-K/Python/blob/main/DL/DL_RNN_IMDB_reviews.ipynb)
+
+
+## Develop
+[Develop 상세설명 README](https://github.com/Chanmi-K/Python/blob/main/Develop/README_Develop.md)
+
+### 개발 연습
+* 1-1 [Mem_manage_program](https://github.com/Chanmi-K/Python/blob/main/Develop/Mem_manage_program.py)
+* 1-2 [Mem_manage_program_db](https://github.com/Chanmi-K/Python/blob/main/Develop/Mem_manage_program_db.py)
