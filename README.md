@@ -12,6 +12,7 @@
 
 ### 머신러닝 연습
 * 1 [FishMarket](https://github.com/Chanmi-K/Python/blob/main/ML/ML_FishMarket.ipynb)
+* 2 [Wine_Red_White](https://github.com/Chanmi-K/Python/blob/main/ML/ML_Wine_red_white.ipynb)
 
 
 ## Deep Learning
