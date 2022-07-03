@@ -1,0 +1,5 @@
+orange,1234,오렌지,orange@test.com,043,우송대
+red,1234,장미,red@test.com,062,전남대
+yellow,1234,개나리,yellow@test.com,062,전남대
+green,1234,소나무,green@test.com,043,우송대
+blue,1234,바다,blue@test.com,062,전남대
