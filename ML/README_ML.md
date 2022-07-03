@@ -9,11 +9,11 @@
 * 확률적 경사 하강법 SGDClassifier
 
 ### [Wine_Red_White](https://github.com/Chanmi-K/Python/blob/main/ML/ML_Wine_red_white.ipynb)
-* 결정 트리
-	* 교차 검증
-	* 하이퍼파라미터 튜닝 (그리드 서치/랜덤 서치)
-* 트리의 앙상블
-	* 랜덤 포레스트
-	* 엑스트라 트리
-	* 그레이디언트 부스팅
-	* 히스토그램 기반 그레이디언트 부스팅
+* 결정 트리 DecisionTreeClassifier
+	* 교차 검증 cross_validate
+	* 하이퍼파라미터 튜닝 (그리드 서치/랜덤 서치) GridSearchCV / RandomizedSearchCV
+* 트리의 앙상블 ensemble
+	* 랜덤 포레스트 RandomForestClassifier
+	* 엑스트라 트리 ExtraTreesClassifier
+	* 그레이디언트 부스팅 GradientBoostingClassifier
+	* 히스토그램 기반 그레이디언트 부스팅 HistGradientBoostingClassifier
