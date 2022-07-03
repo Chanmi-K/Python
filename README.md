@@ -18,4 +18,4 @@
 ## Deep Learning
 
 ### 딥러닝 연습
-* 1 [DNN_Fashion_MNIST](https://github.com/Chanmi-K/Python/blob/main/DL/DL_FashionMnist_DNN.ipynb)
+* 1 [DNN_Fashion_MNIST](https://github.com/Chanmi-K/Python/blob/main/DL/DL_DNN_FashionMnist.ipynb)
