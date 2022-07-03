@@ -15,3 +15,10 @@
 * 가중치 시각화
 * 함수형 API
 * 특성맵 시각화
+
+### [RNN_IMDB_reviews](https://github.com/Chanmi-K/Python/blob/main/DL/DL_RNN_IMDB_reviews.ipynb)
+* 데이터 길이 맞추기
+* SimpleRNN
+* Embedding
+* LSTM
+* GRU
