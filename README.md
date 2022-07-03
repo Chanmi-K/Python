@@ -1,6 +1,20 @@
 # Python
 파이썬 사용 프로젝트
 
+## **목차**
+
+* [Data Analysis](https://github.com/Chanmi-K/Python#data-analysis)
+  * [DA_Practice](https://github.com/Chanmi-K/Python#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%97%B0%EC%8A%B5)
+* [Machine Learning](https://github.com/Chanmi-K/Python#machine-learning)
+  * [ML_Practice](https://github.com/Chanmi-K/Python#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%B0%EC%8A%B5)
+* [Deep Learning](https://github.com/Chanmi-K/Python#deep-learning)
+  * [DL_Practice](https://github.com/Chanmi-K/Python#%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%97%B0%EC%8A%B5)
+* [Develop](https://github.com/Chanmi-K/Python#develop)
+  * [Develop_Practice](https://github.com/Chanmi-K/Python#%EA%B0%9C%EB%B0%9C-%EC%97%B0%EC%8A%B5)
+
+
+
+
 ## Data Analysis
 [DA 상세설명 README](https://github.com/Chanmi-K/Python/blob/main/DA/README_DA.md)
 
