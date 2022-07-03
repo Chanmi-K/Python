@@ -9,3 +9,9 @@
   * Optimizer Adam
   * DropOut
   * CallBacks - ModelCheckpoint, EarlyStopping
+
+### [CNN_Fashion_MNIST](https://github.com/Chanmi-K/Python/blob/main/DL/DL_CNN_FashionMnist.ipynb)
+* 합성곱 신경망 만들기
+* 가중치 시각화
+* 함수형 API
+* 특성맵 시각화
