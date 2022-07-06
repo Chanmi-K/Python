@@ -42,6 +42,7 @@
 * 4 [DNN_basic](https://github.com/Chanmi-K/Python/blob/main/DL/DL_DNN_basic.ipynb)
 * 5 [CNN_basic](https://github.com/Chanmi-K/Python/blob/main/DL/DL_CNN_basic.ipynb)
 * 6 [data_augmentation](https://github.com/Chanmi-K/Python/blob/main/DL/DL_data_augmentation.ipynb)
+* 7 [TransferLearning](https://github.com/Chanmi-K/Python/blob/main/DL/DL_TransferLearning_basic.ipynb)
 
 
 ## Develop
