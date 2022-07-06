@@ -40,3 +40,8 @@
 * Embedding
 * LSTM
 * GRU
+
+
+### [data_augmentation](https://github.com/Chanmi-K/Python/blob/main/DL/DL_data_augmentation.ipynb)
+* 로딩한 데이터에서 증강
+* 파일에서 증강
