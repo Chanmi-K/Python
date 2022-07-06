@@ -26,6 +26,14 @@
 * 함수형 API
 * 특성맵 시각화
 
+### [CNN_basic](https://github.com/Chanmi-K/Python/blob/main/DL/DL_CNN_basic.ipynb)
+* MNIST
+* 패션 MNIST
+* CIFAR10
+	* PlotLosses, overfitting 방지
+	* Callbacks 다 적용
+
+
 ### [RNN_IMDB_reviews](https://github.com/Chanmi-K/Python/blob/main/DL/DL_RNN_IMDB_reviews.ipynb)
 * 데이터 길이 맞추기
 * SimpleRNN
