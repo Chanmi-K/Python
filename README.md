@@ -41,6 +41,7 @@
 * 3 [RNN_IMDB_reviews](https://github.com/Chanmi-K/Python/blob/main/DL/DL_RNN_IMDB_reviews.ipynb)
 * 4 [DNN_basic](https://github.com/Chanmi-K/Python/blob/main/DL/DL_DNN_basic.ipynb)
 * 5 [CNN_basic](https://github.com/Chanmi-K/Python/blob/main/DL/DL_CNN_basic.ipynb)
+* 6 [data_augmentation](https://github.com/Chanmi-K/Python/blob/main/DL/DL_data_augmentation.ipynb)
 
 
 ## Develop
