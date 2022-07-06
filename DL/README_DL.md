@@ -10,6 +10,16 @@
   * DropOut
   * CallBacks - ModelCheckpoint, EarlyStopping
 
+### [DNN_basic](https://github.com/Chanmi-K/Python/blob/main/DL/DL_DNN_basic.ipynb)
+* IRIS 데이터 분류
+* 속성 데이터 회귀
+* MNIST
+	* 정규화, Flatten 사용
+* 패션 MNIST
+* 과대적합 방지 : Dropout, BatchNormalization, GaussianNoise, l1, l2
+* Callbacks : PlotLosses, ModelCheckpoint, EarlyStopping, ReduceLROnPlateau, LearningRateScheduler
+
+
 ### [CNN_Fashion_MNIST](https://github.com/Chanmi-K/Python/blob/main/DL/DL_CNN_FashionMnist.ipynb)
 * 합성곱 신경망 만들기
 * 가중치 시각화
