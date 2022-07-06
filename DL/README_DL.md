@@ -45,3 +45,11 @@
 ### [data_augmentation](https://github.com/Chanmi-K/Python/blob/main/DL/DL_data_augmentation.ipynb)
 * 로딩한 데이터에서 증강
 * 파일에서 증강
+
+
+### [TransferLearning](https://github.com/Chanmi-K/Python/blob/main/DL/DL_TransferLearning_basic.ipynb)
+* 전이학습 데이터 증강 사용
+	* VGG16
+	* Resnet50
+	* EfficientNetB1
+* 예측 결과 출력
