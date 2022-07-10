@@ -53,3 +53,10 @@
 	* Resnet50
 	* EfficientNetB1
 * 예측 결과 출력
+
+
+### [Korean_KeyBERT](https://github.com/Chanmi-K/Python/blob/main/DL/prac_Korean_KeyBERT_%ED%82%A4%EC%9B%8C%EB%93%9C%EC%B6%94%EC%B6%9C.ipynb)
+* SentenceTransformer
+* 문서와 가장 유사한 키워드 추출
+* Max Sum Similarity 후보 간의 유사성 최소화, 문서와의 후보 유사성 극대화
+* Maximal Marginal Relevance 중복 최소화, 결과 다양성 극대화
