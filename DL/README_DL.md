@@ -60,3 +60,15 @@
 * 문서와 가장 유사한 키워드 추출
 * Max Sum Similarity 후보 간의 유사성 최소화, 문서와의 후보 유사성 극대화
 * Maximal Marginal Relevance 중복 최소화, 결과 다양성 극대화
+
+
+### [Text_summarization](https://github.com/Chanmi-K/Python/blob/main/DL/prac_text_summarization.ipynb)
+* 데이터 준비
+	* 정수 인코딩
+	* 패딩
+* seq2seq 요약 모델 설계 및 훈련 
+	* 인코더
+	* 디코더 + 어텐션
+* seq2seq 요약 모델 테스트하기
+	* 인코더 
+	* 테스트 단계의 디코더
