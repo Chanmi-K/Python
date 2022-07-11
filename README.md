@@ -44,6 +44,7 @@
 * 6 [data_augmentation](https://github.com/Chanmi-K/Python/blob/main/DL/DL_data_augmentation.ipynb)
 * 7 [TransferLearning](https://github.com/Chanmi-K/Python/blob/main/DL/DL_TransferLearning_basic.ipynb)
 * 8 [Korean_KeyBERT](https://github.com/Chanmi-K/Python/blob/main/DL/prac_Korean_KeyBERT_%ED%82%A4%EC%9B%8C%EB%93%9C%EC%B6%94%EC%B6%9C.ipynb)
+* 9 [Text_summarization](https://github.com/Chanmi-K/Python/blob/main/DL/prac_text_summarization.ipynb)
 
 
 ## Develop
