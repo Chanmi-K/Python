@@ -5,6 +5,7 @@
 
 * [Data Analysis](https://github.com/Chanmi-K/Python#data-analysis)
   * [DA_Practice](https://github.com/Chanmi-K/Python#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%97%B0%EC%8A%B5)
+  * [DA_Project](https://github.com/Chanmi-K/Python/edit/main/README.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 * [Machine Learning](https://github.com/Chanmi-K/Python#machine-learning)
   * [ML_Practice](https://github.com/Chanmi-K/Python#%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%97%B0%EC%8A%B5)
 * [Deep Learning](https://github.com/Chanmi-K/Python#deep-learning)
@@ -21,6 +22,9 @@
 ### 데이터 분석 연습
 * 1 [Drinks](https://github.com/Chanmi-K/Python/blob/main/DA/DA_Drinks.ipynb)
 * 2 [Covid_data_visualization](https://github.com/Chanmi-K/Python/blob/main/DA/DA_Covid_data_visualization.ipynb)
+
+### 데이터 분석 프로젝트
+* 1 [Cosine_Similarity](https://github.com/Chanmi-K/Python/blob/main/DA/cosine_similarity.ipynb) (DMC 프로젝트)
 
 
 ## Machine Learning
